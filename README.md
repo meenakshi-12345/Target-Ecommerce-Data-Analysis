@@ -1,3 +1,5 @@
+<img width="1144" height="306" alt="Upcoming-Stores-Target" src="https://github.com/user-attachments/assets/d5989e2a-550e-4b08-a7be-87a4af9f3bc1" />
+
 # 🛒 Target E-Commerce SQL Analysis Project
 
 ## 📌 Project Overview
